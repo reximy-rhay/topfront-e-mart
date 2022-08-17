@@ -81,7 +81,7 @@
                     <!-- row -->
                     <div class="row">
                         <div class="col">
-                            <p>Topfront e-mart has brought marketing processes to you at your convenience. </p>
+                            <p>Topfront e-mart has brought marketing process to you at your convenience. </p>
                             <p><b>How does this help you?</b></p>
                             <p>We have given everyone an opportunity to own a store just by creating an account, updating your profile with the goods you wish to trade and setting up your own store with the giving templates, Giving buyers the opportunity
                                 to shop at your store at any point in time.</p>
@@ -218,8 +218,7 @@
                     <div class="testmonial-wrapper">
                         <img src="assets/imgs/avatar1.jpg" alt="Client Image">
                         <h6 class="title mb-3">Adell Smith</h6>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium voluptates voluptatem eum nisi cumque veniam est id reprehenderit atque rerum, cum sit perspiciatis, harum cupiditate nostrum quibusdam perferendis accusamus,
-                            illo.
+                        <p>A great website for shopping and marketing at your convience, providing you with different goods and services.
                         </p>
                     </div>
                 </div>
@@ -227,8 +226,7 @@
                     <div class="testmonial-wrapper">
                         <img src="assets/imgs/avatar2.jpg" alt="Client Image">
                         <h6 class="title mb-3">John Doe</h6>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium voluptates voluptatem eum nisi cumque veniam est id reprehenderit atque rerum, cum sit perspiciatis, harum cupiditate nostrum quibusdam perferendis accusamus,
-                            illo.
+                        <p>A great website for shopping and marketing at your convience, providing you with different goods and services.
                         </p>
                     </div>
                 </div>
@@ -236,8 +234,7 @@
                     <div class="testmonial-wrapper">
                         <img src="assets/imgs/avatar3.jpg" alt="Client Image">
                         <h6 class="title mb-3">Kyle Butler</h6>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium voluptates voluptatem eum nisi cumque veniam est id reprehenderit atque rerum, cum sit perspiciatis, harum cupiditate nostrum quibusdam perferendis accusamus,
-                            illo.
+                        <p>A great website for shopping and marketing at your convience, providing you with different goods and services.
                         </p>
                     </div>
                 </div>
