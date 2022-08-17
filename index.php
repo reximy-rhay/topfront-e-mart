@@ -347,7 +347,7 @@
                 <p>Copyright
                     <script>
                         document.write(new Date().getFullYear())
-                    </script> &copy; <a href="">Reons</a></p>
+                    </script> &copy; <a href="https://topfronte-mart.herokuapp.com/">Reximy</a></p>
             </footer>
             <!-- End of Footer-->
 
