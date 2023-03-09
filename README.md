@@ -2,4 +2,4 @@
  An online shopping and marketing site
  ..
 veiw live at
-https://topfronte-mart.herokuapp.com/
+https://startling-seahorse-967f28.netlify.app/
